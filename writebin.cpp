@@ -20,7 +20,7 @@ int main( )
    }
    else 
    
-   cout<<"Error opening file"<<endl;
+   cout<<"Error opening abc.bin"<<endl;
  
    return 0;
 }
